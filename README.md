@@ -42,8 +42,4 @@ Graphity boasts several notable features, including:
 - Customized adjacency list storage for optimized memory usage and support for both weighted and unweighted graphs.
 - Web-based interface for graph manipulation, providing accessibility from any device, intuitive usability, and seamless integration with other web services, enhancing collaboration, scalability, and reducing deployment complexity.
 
----
-This README provides an overview of Graphity's capabilities and features. For detailed usage instructions and documentation, please refer to the project repository.
-```
-
 Feel free to tweak or expand upon any section as needed!
