@@ -1,4 +1,4 @@
-# G-R-A-P-H-I-T-Y-Graph-Database-System
+# GraphNexus-Graph-Database-System
 
 Graphity is a powerful Graph Processing Database System designed to provide a web-based interface for querying, manipulating, and retrieving various aspects of graphs, as well as performing operations on them. Traditional query languages like SQL are not ideally suited for graph-related tasks, which is where Graphity comes in, leveraging a combination of graph algorithms to facilitate efficient graph management within a database context.
 
